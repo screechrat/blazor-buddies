@@ -1,0 +1,52 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "smabuk",
+      "name": "Simon Brookes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2011834?v=4",
+      "profile": "https://github.com/smabuk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ElectricHavoc",
+      "name": "ElectricHavoc",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3020276?v=4",
+      "profile": "http://electrichavoc.tv",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "parithon",
+      "name": "Anthony Conrad (parithon)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8602418?v=4",
+      "profile": "https://github.com/parithon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MichaelJolley",
+      "name": "Michael Jolley",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1228996?v=4",
+      "profile": "https://baldbeardedbuilder.com/",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "blazor-buddies",
+  "projectOwner": "builders-club",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
